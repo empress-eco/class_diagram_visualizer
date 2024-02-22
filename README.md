@@ -1,12 +1,15 @@
 <div align="center">
 <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Project Logo">
-</div>
+
 
 Welcome to Class Diagram Visualizer, a Python application designed to provide a clear visual representation of your Python application's structure. 
 
-[Explore the Docs 📚](https://empress.eco/)
-- [Report a Bug 🐛](https://github.com/empress-eco/class_diagram_visualizer/issues)
-- [Request a Feature 🌟](https://github.com/empress-eco/class_diagram_visualizer/issues)
+[Explore the Docs 📚](https://empress.eco/) | 
+[Report a Bug 🐛](https://github.com/empress-eco/class_diagram_visualizer/issues) |
+[Request a Feature 🌟](https://github.com/empress-eco/class_diagram_visualizer/issues)
+
+</div>
+
 
 ## 📖 About The Project
 
